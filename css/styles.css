@@ -1,0 +1,18 @@
+body {
+  background-color: #E3F3F0;
+  color: #2C3A70;
+  text-align: left;
+  font-family: 'Helvetica', sans-serif;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+  padding-left: 20px;
+  padding-top: 50px; }
+  body h1 {
+    padding-bottom: 50px; }
+  body h2 {
+    padding-bottom: 25px;
+    padding-top: 25px; }
+  body li {
+    padding: 20px;
+    display: inline; }
